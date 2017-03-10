@@ -19,4 +19,4 @@ Some of the articles and blogs have been painstakingly restroed from previous bl
 ## A few things about me:
 
 * Automotive engineer by profession. You can learn more about my professional history at [LinkedIn](https://linkedin.com/sampathvanimisetti)
-* Tinkerer and open source zealot. Avid hobbyist in DIY electronics and astrophotography. I have open-sourced most of my hobyy projects on [GitHub](https://github.com/svanimisetti)
+* Tinkerer and open source zealot. Avid hobbyist in DIY electronics and astrophotography. I have open-sourced most of my hobby projects on [GitHub](https://github.com/svanimisetti)
