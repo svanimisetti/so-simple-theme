@@ -8,7 +8,9 @@ image:
   creditlink: https://commons.wikimedia.org/wiki/File:R%C3%A9seau_de_neurones.jpg
 ---
 
-On this corner of the world-wide-web, I hope to document my experience and thoughts through a series of blogs and articles. I advocate Open Source whole-heartedly, especially in technology areas that have tremendous societal benefit. I have attempted to release some of my codes developed during spare time on hobby projects. Also, I have tried to aseemble a compendium of fast-pace instructions on a wide variety of tools on which I accumulated experience during my professional career and hobby explorations. I hope to incorporate video instructions, but that's a project for later. I hope the information on this website helps you in some form or the other. Thanks for visiting!
+On this corner of the world-wide-web, I hope to document my experience and thoughts through a series of blogs and articles. I advocate Open Source whole-heartedly, especially in technology areas that have tremendous societal benefit. I have attempted to release some of my codes developed during spare time on hobby projects.
+
+Also, I have tried to assemble a compendium of fast-pace instructions on a wide variety of tools on which I accumulated experience during my professional career and hobby explorations. I hope to incorporate video instructions, but that's a project for later. I hope the information on this website helps you in some form or the other. Thanks for visiting!
 
 **DISCLAIMER**
 
